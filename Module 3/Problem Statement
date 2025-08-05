@@ -1,0 +1,19 @@
+Embedded Systems (EE312)
+Assignment 3
+Go through and complete the following tasks:
+1. Generate a PWM signal without using a library/ in-built function. Use Oscilloscope to 
+visualize the output.
+2.Control LED Brightness using the generated PWM Signal. (Cycle through low to high 
+brightness)
+3.Use a potentiometer to change the duty cycle of the PWM Signal and control the brightness of 
+the LED. Rotating the potentiometer should dim or brighten up the LED.
+4.Use PWM pins and analogWrite() to carry out the Task-3.
+5.Control a servo motor using (i) generated PWM (ii) Servo.h library
+Pre Lab:
+1. Explain PWM.
+2. What is the need for PWM? Why do we use it instead of digital square waves of 50% duty 
+cycle?
+3. What are the Drawbacks of using program generated PWM signals instead of Arduino PWM 
+hardware?
+4. What kind of PWM signal is required to control a servo motor (frequency and pulse width 
+range)?
