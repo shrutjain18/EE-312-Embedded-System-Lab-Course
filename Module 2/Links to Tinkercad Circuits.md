@@ -1,5 +1,5 @@
-Task 1: [Tinkercad](https://www.tinkercad.com/things/2C5pS4YTsKk-embedded-lab2task1?sharecode=Xx5r4uer7SAKhMAOKwP55KRadK52kUMt_0DHjk-PI1E)
-Task 2: [Tinkercad](https://www.tinkercad.com/things/7Ikhk584dFb-312-module-2-task-2?sharecode=Z94v2H1Y53Z_p-_Qe27b5vaIhRO79YjZXH2QU8sz-JQ)
-Task 3: [Tinkercad](https://www.tinkercad.com/things/0IYHNne8qTI-embedded-systems-lab2-q3?sharecode=GcP8ECDawjh69nTvoPofM7wapX2ryM6olMnNOkoCebs)
-Task 4: [Tinkercad](https://www.tinkercad.com/things/4OjQLxjpx73-embedded-systems-lab2-q4?sharecode=undefined)
-Task 5: [Tinkercad](https://www.tinkercad.com/things/bkEhZriPePV-312-module-2-task-5)
+Task 1: [Tinkercad](https://www.tinkercad.com/things/2C5pS4YTsKk-embedded-lab2task1?sharecode=Xx5r4uer7SAKhMAOKwP55KRadK52kUMt_0DHjk-PI1E) < br / >
+Task 2: [Tinkercad](https://www.tinkercad.com/things/7Ikhk584dFb-312-module-2-task-2?sharecode=Z94v2H1Y53Z_p-_Qe27b5vaIhRO79YjZXH2QU8sz-JQ) < br / >
+Task 3: [Tinkercad](https://www.tinkercad.com/things/0IYHNne8qTI-embedded-systems-lab2-q3?sharecode=GcP8ECDawjh69nTvoPofM7wapX2ryM6olMnNOkoCebs) < br / >
+Task 4: [Tinkercad](https://www.tinkercad.com/things/4OjQLxjpx73-embedded-systems-lab2-q4?sharecode=undefined) < br / >
+Task 5: [Tinkercad](https://www.tinkercad.com/things/bkEhZriPePV-312-module-2-task-5) < br / >
